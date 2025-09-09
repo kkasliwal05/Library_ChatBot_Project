@@ -1,4 +1,4 @@
-*📚 Library ChatBot*
+#📚 Library ChatBot
 
 A simple web-based chatbot designed for library assistance. Users can interact with the chatbot through a clean HTML/CSS interface to ask questions and receive intelligent responses.
 The chatbot is powered by Flask (Python) on the backend and OpenAI’s Chat Completion API for generating responses. It also fetches additional data from the Internet Archive API.
